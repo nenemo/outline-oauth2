@@ -1,3 +1,7 @@
+# Outline VPN OAuth2 Proxy
+
+This template helps use OAuth2 SSO (Single Sign-On) to automatically issue access keys for an existing Outline VPN server.
+
 # Deployment Instructions
 
 ```sh
